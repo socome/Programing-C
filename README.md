@@ -1,5 +1,7 @@
 ## 고급 프로그램 입문-C
 
+### [강의자료 PPT](https://github.com/socome/Programing-C/issues/4)
+
 ### [2주차 실습 정답](https://github.com/socome/Programing-C/issues/1)
 ### [3주차 실습 정답](https://github.com/socome/Programing-C/issues/2)
 ### [5주차 실습 정답](https://github.com/socome/Programing-C/issues/3)
