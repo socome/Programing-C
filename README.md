@@ -5,7 +5,7 @@
 ### [2주차 실습 정답](https://github.com/socome/Programing-C/issues/1)
 ### [3주차 실습 정답](https://github.com/socome/Programing-C/issues/2)
 ### [5주차 실습 정답](https://github.com/socome/Programing-C/issues/3)
-### 1차 과제 정답 (추 후 공개예정 )
+### [1차 과제 정답](https://github.com/socome/Programing-C/issues/7)
 
 
 
