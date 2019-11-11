@@ -6,6 +6,7 @@
 ### [3주차 실습 정답](https://github.com/socome/Programing-C/issues/2)
 ### [5주차 실습 정답](https://github.com/socome/Programing-C/issues/3)
 ### [1차 과제 정답](https://github.com/socome/Programing-C/issues/7)
+### [9주차 실습 정답](https://github.com/socome/Programing-C/issues/8)
 
 
 
