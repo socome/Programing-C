@@ -9,6 +9,8 @@
 ### [9주차 실습 정답](https://github.com/socome/Programing-C/issues/8)
 
 
+https://drive.google.com/file/d/1jGGWYBAng6UXv2FNrH8gi1TONQnzcYbG/view?usp=sharing
+
 
 ### [추가자료 : 디버깅 하는법](https://github.com/socome/Programing-C/issues/6)
 
