@@ -9,7 +9,7 @@
 ### [1차 과제 정답](https://github.com/socome/Programing-C/issues/7)
 ### [9주차 실습 정답](https://github.com/socome/Programing-C/issues/8)
 ### [10주차 실습 정답](https://github.com/socome/Programing-C/issues/9)
-
+### [2차과제 정답](https://github.com/socome/Programing-C/issues/11)
 
 ### [추가자료 : 디버깅 하는법](https://github.com/socome/Programing-C/issues/6)
 
